@@ -10,3 +10,7 @@ Aqui estou guardando os très problemas práticos de programação feitos com C+
 ### Exercício 2
 
 <img src=".github/ex2.png" style="width:400px">
+
+### Exercício 3
+
+<img src=".github/ex3.png" style="width:400px">
